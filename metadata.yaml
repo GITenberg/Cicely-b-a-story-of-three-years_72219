@@ -1,0 +1,32 @@
+_repo: Cicely-b-a-story-of-three-years_72219
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Molesworth, Mrs.
+    aliases:
+    - Mrs. (Mary Louisa) Molesworth
+    - Molesworth, Mary Louisa Stewart
+    - Graham, Ennis
+    birthdate: 1839
+    deathdate: 1921
+    gutenberg_agent_id: '2147'
+    url: http://www.gutenberg.org/2009/agents/2147
+    wikipedia: https://en.wikipedia.org/wiki/Mary_Louisa_Molesworth
+description: ''
+gutenberg_issued: '2023-11-24'
+identifiers:
+  gutenberg: '72219'
+language: en
+pgterms:marc905: 20230615082913graham
+pgterms:marc906: '1874'
+pgterms:marc907: gb
+publication_note: '  $aLondon :$bTinsley Brothers, $c1874.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English fiction -- 19th century'
+- !lcc 'PR'
+- GITenberg
+title: 'Cicely : $b a story of three years'
+url: http://www.gutenberg.org/ebooks/72219
