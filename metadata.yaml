@@ -1,5 +1,8 @@
 _repo: Cicely-b-a-story-of-three-years_72219
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Molesworth, Mrs.
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2147
     wikipedia: https://en.wikipedia.org/wiki/Mary_Louisa_Molesworth
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72219#Cicely-b-a-story-of-three-years
 gutenberg_issued: '2023-11-24'
 identifiers:
   gutenberg: '72219'
